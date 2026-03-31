@@ -114,4 +114,3 @@ The calibration factor in `emon1.current(SCT_PIN, 0.55)` is tuned for a low-powe
 - EmonLib: [OpenEnergyMonitor](https://github.com/openenergymonitor/EmonLib)
 - Blynk Platform: [blynk.io](https://blynk.io)
 - University: Dayananda Sagar College of Engineering, Dept. of ECE, Bangalore
-- Guide: Dr. Swapnil S. Ninawe
